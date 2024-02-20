@@ -1,12 +1,22 @@
 h1{
-    color:brown;
+    color:purple;
     text-align: center
+}
+
+h3{
+    color:palevioletred;
+    text-align: center
+}
+
+p{
+    margin-left: 1in;
+    margin-right: 1in
 }
 
 img{
     display:block;
     margin-left:auto;
     margin-right: auto;
-    height:auto;
-    width:auto
+    height: 200px;
+    width: auto
 }
